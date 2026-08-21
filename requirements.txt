@@ -1,6 +1,6 @@
 streamlit==1.62.0
 supervision==0.30.0
-opencv-python
+opencv-python-headless
 ultralytics==8.4.124
 onnx==1.22.0
 onnxruntime==1.29.0
